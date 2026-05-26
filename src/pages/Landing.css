@@ -1,0 +1,42 @@
+.landing-page {
+  background: #EEF2FB;
+}
+
+/* Top 65% — airy light blue-white, like the design screenshot */
+.landing-top {
+  flex: 1;
+  background: linear-gradient(170deg, #F0F4FF 0%, #E8EEFA 60%, #E3EAF8 100%);
+  min-height: 0;
+}
+
+/* Bottom section with text + buttons */
+.landing-bottom {
+  background: #EEF2FB;
+  padding: 28px 24px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  flex-shrink: 0;
+}
+
+.landing-title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #1A1A2E;
+  margin-bottom: 10px;
+  letter-spacing: -0.3px;
+}
+
+.landing-sub {
+  font-size: 13.5px;
+  color: #888;
+  line-height: 1.65;
+  margin-bottom: 28px;
+  font-weight: 400;
+}
+
+.landing-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}

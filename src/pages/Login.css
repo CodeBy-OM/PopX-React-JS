@@ -1,0 +1,39 @@
+.login-page {
+  background: #EEF2FB;
+}
+
+.login-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 24px 32px;
+  min-height: 100%;
+}
+
+.login-title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #1A1A2E;
+  line-height: 1.25;
+  margin-bottom: 10px;
+  letter-spacing: -0.3px;
+}
+
+.login-sub {
+  font-size: 13.5px;
+  color: #888;
+  line-height: 1.65;
+  margin-bottom: 28px;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1;
+}
+
+.login-spacer {
+  flex: 1;
+  min-height: 20px;
+}
