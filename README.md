@@ -10,16 +10,6 @@ A pixel-perfect mobile app UI built with **React JS**, centered on the webpage l
 
 ---
 
-dfvdfgdfgdfgdrgergvrgvgerg
-
-rgergegergerg
-
-
-ergergergergerge
-
-
-rgergergergegerger
-
 
 ## 🖼️ Pages
 
